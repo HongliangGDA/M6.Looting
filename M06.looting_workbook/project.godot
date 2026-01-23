@@ -15,6 +15,11 @@ run/main_scene="res://lessons/mini_dungeon.tscn"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon_looting.png"
 
+[autoload]
+
+UITestPanel="*res://addons/gdpractice/tester/ui_test_panel.tscn"
+Metadata="*res://addons/gdpractice/practice_solutions/metadata.gd"
+
 [display]
 
 window/size/viewport_width=1920
