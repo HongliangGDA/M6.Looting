@@ -1,1 +1,4 @@
+res://lessons/mini_dungeon.tscn
 res://addons/gdpractice/assets/theme.tres
+res://chest.gd
+res://chest.tscn
