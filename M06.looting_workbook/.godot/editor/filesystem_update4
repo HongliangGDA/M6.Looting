@@ -1,3 +1,4 @@
-res://chest.tscn
+res://shadow..tscn
 res://addons/gdpractice/assets/theme.tres
-res://chest.gd
+res://assets/torch/torch.tscn
+res://lessons/items/item.gd

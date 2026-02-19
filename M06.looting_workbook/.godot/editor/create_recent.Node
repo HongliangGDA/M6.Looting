@@ -1,5 +1,6 @@
+Area2D
+Sprite2D
 AnimationPlayer
 Camera2D
 CanvasGroup
 CollisionShape2D
-Area2D
